@@ -1,0 +1,8 @@
+.icon-bin,  .icon-add, .icon-dots{
+    fill: aliceblue !important;
+    cursor: pointer;
+}
+
+.icon-add :hover, .icon-bin :hover{
+    fill:  darkseagreen!important;
+}

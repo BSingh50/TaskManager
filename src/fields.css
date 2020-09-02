@@ -1,0 +1,21 @@
+.status-select{
+    border: none;
+    background-color: transparent;
+    color: lightyellow;
+    font-size: 11px;
+}
+
+option{
+    background-color: black;
+   font-size:11px;
+}
+
+.input-task{
+    border: none;
+    background-color: transparent;
+    color: darkseagreen;
+}
+
+.input-task:focus{
+    outline: none;
+}

@@ -1,0 +1,23 @@
+.subMenu{
+    left: 94px !important;
+}
+
+.MuiIconButton-root{
+    padding:0px !important;
+}
+
+.MuiPaper-root{
+    background-color: black !important;
+    color: lightyellow !important;
+    
+}
+
+/* .MuiList-root{
+    border-bottom:1px solid white !important;
+    border-right:1px solid white !important;
+} */
+
+.MuiListItem-root{
+    border-left:1px solid white !important;
+    margin-bottom:5px !important;
+}
